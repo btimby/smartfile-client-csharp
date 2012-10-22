@@ -1,4 +1,4 @@
-smartfile-client-csharp
+This project has moved.
 =======================
 
-This project has moved: https://github.com/smartfile/client-csharp
+https://github.com/smartfile/client-csharp
